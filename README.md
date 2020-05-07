@@ -1,2 +1,1 @@
-# boxes
-tackling with two boxes
+# Box Class
